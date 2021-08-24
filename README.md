@@ -1,2 +1,2 @@
 # Leetcode-practice
-## choose easy question to practice coding skill during summer vacation
+## chooseing easy question to practice my coding skill during summer vacation
