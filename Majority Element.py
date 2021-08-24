@@ -12,7 +12,7 @@ class Solution:
                     count+=1
                 if (nums[j]*-1) == i:
                     count2+=1
-            if count> math.floor(len(nums)/2):
+            if count> len(nums)//2:
                 return i
-            if count2> math.floor(len(nums)/2):
+            if count2> len(nums)//2:
                 return i*-1
